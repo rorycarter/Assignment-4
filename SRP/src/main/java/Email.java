@@ -10,22 +10,22 @@ public class Email implements EmailInterface,ContentInterface
     private String content;
 
     public String toString() {
-        // TODO Auto-generated method stub
+
         return String.format("Sender: %s\n Receiver: %s\n Message: %s", getSender(),getReceiver(),getContent());
     }
 
     public void setSender(String sender) {
-        // TODO Auto-generated method stub
+
         this.sender = sender;
     }
 
     public void setReceiver(String receiver) {
-        // TODO Auto-generated method stub
+
         this.receiver = receiver;
     }
 
     public void setContent(String content) {
-        // TODO Auto-generated method stub
+
         this.content = content;
     }
 
