@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="AcyclicQuestion4" />
+        <module name="Chapter4_2" />
+        <module name="DIPObey" />
+        <module name="DIPViolate" />
+        <module name="ISPObey" />
+        <module name="ISPViolate" />
+        <module name="LSPObey" />
+        <module name="lspObey" />
+        <module name="lspViolate" />
+        <module name="LSPViolate" />
+        <module name="ocpObey" />
+        <module name="ocpViolate" />
+        <module name="PLKObey" />
+        <module name="PLKViolation" />
+        <module name="SingleResponsibilityViolate" />
+        <module name="SRP" />
+        <module name="SRPViolate" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AcyclicQuestion4" target="1.5" />
+      <module name="ADPObey" target="1.5" />
+      <module name="Chapter4_1" target="1.5" />
+      <module name="Chapter4_2" target="1.5" />
+      <module name="Chapter4_3" target="1.5" />
+      <module name="DIPObey" target="1.5" />
+      <module name="DIPViolate" target="1.5" />
+      <module name="ISPObey" target="1.5" />
+      <module name="ISPViolate" target="1.5" />
+      <module name="LSPObey" target="1.5" />
+      <module name="lspObey" target="1.5" />
+      <module name="lspViolate" target="1.5" />
+      <module name="LSPViolate" target="1.5" />
+      <module name="ocpObey" target="1.5" />
+      <module name="ocpViolate" target="1.5" />
+      <module name="plkobey" target="1.5" />
+      <module name="plkObey" target="1.5" />
+      <module name="PLKObey" target="1.5" />
+      <module name="PLKViolation" target="1.5" />
+      <module name="SingleResponsibilityViolate" target="1.5" />
+      <module name="SRP" target="1.5" />
+      <module name="SRPViolate" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

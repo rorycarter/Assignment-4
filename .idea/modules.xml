@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AcyclicQuestion4/AcyclicQuestion4.iml" filepath="$PROJECT_DIR$/AcyclicQuestion4/AcyclicQuestion4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter4_1.iml" filepath="$PROJECT_DIR$/Chapter4_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter4_2/Chapter4_2.iml" filepath="$PROJECT_DIR$/Chapter4_2/Chapter4_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DIPObey/DIPObey.iml" filepath="$PROJECT_DIR$/DIPObey/DIPObey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DIPViolate/DIPViolate.iml" filepath="$PROJECT_DIR$/DIPViolate/DIPViolate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ISPObey/ISPObey.iml" filepath="$PROJECT_DIR$/ISPObey/ISPObey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ISPViolate/ISPViolate.iml" filepath="$PROJECT_DIR$/ISPViolate/ISPViolate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lspObey/LSPObey.iml" filepath="$PROJECT_DIR$/lspObey/LSPObey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lspViolate/LSPViolate.iml" filepath="$PROJECT_DIR$/lspViolate/LSPViolate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PLKObey/PLKObey.iml" filepath="$PROJECT_DIR$/PLKObey/PLKObey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PLKViolation/PLKViolation.iml" filepath="$PROJECT_DIR$/PLKViolation/PLKViolation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SRP/SRP.iml" filepath="$PROJECT_DIR$/SRP/SRP.iml" />
+      <module fileurl="file://C:\Users\Rory\IdeaProjects\Chapter4_1\SRP\SRP1Violate.iml" filepath="C:\Users\Rory\IdeaProjects\Chapter4_1\SRP\SRP1Violate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SRPViolate/SRPViolate.iml" filepath="$PROJECT_DIR$/SRPViolate/SRPViolate.iml" />
+      <module fileurl="file://C:\Users\Rory\IdeaProjects\Chapter4_1\SRP\SRPViolates.iml" filepath="C:\Users\Rory\IdeaProjects\Chapter4_1\SRP\SRPViolates.iml" />
+      <module fileurl="file://C:\Users\Rory\IdeaProjects\Chapter4_1\SRP\SRPviolate.iml" filepath="C:\Users\Rory\IdeaProjects\Chapter4_1\SRP\SRPviolate.iml" />
+      <module fileurl="file://C:\Users\Rory\IdeaProjects\Chapter4_1\SRP\SingleResponsibilityViolate.iml" filepath="C:\Users\Rory\IdeaProjects\Chapter4_1\SRP\SingleResponsibilityViolate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ocpObey/ocpObey.iml" filepath="$PROJECT_DIR$/ocpObey/ocpObey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ocpViolate/ocpViolate.iml" filepath="$PROJECT_DIR$/ocpViolate/ocpViolate.iml" />
+    </modules>
+  </component>
+</project>
